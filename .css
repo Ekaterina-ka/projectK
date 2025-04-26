@@ -1,0 +1,39 @@
+.logo {
+    width: 50px;
+    height: 50px;
+}
+
+.mainPage {
+    border-color: #8B4513;
+    border-radius: 10px;
+    border-style: solid;
+    width: fit-content;
+    height: fit-content;
+}
+
+.text {
+    background-color: #8B4513;
+    border-color: #8B4513;
+    border-style: solid;
+    margin-left: 30px;
+    margin-right: 40px;
+    width: fit-content;
+    height: fit-content;
+}
+
+.h1 {
+    font-family: "Gill Sans", sans-serif;
+    color: #FFDEAD;
+}
+
+.shelf {
+    background-color: #228B22;
+    margin-top: 20px;
+    width: fit-content;
+    height: fit-content;
+}
+
+.p {
+    font-family: "Gill Sans", sans-serif;
+    color: #FFDEAD;
+}
