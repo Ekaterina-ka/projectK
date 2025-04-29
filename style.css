@@ -1,6 +1,26 @@
+body {
+    background-size: cover;
+}
+
+
+
+
+.llogo {
+    background-color: white;
+    border-color: white;
+    border-radius: 40px;
+    border-style: solid;
+    color: #35170C;
+
+}
+
 .logo {
+    border-color: white;
+    border-radius: 40px;
+    border-style: solid;
     width: 80px;
     height: 60px;
+    position: left;
 }
 
 .mainPage {
@@ -20,36 +40,41 @@
 }
 
 .text {
-    border-color: #8B4513;
+    border-color: #35170C;
     border-style: solid;
+    border-radius: 40px;
+    border-width: 15px;
 }
 
 h1 {
     margin-top: 40px;
     margin-left: 40px;
-    color: #8B4513;
+    color: white;
     text-align: left;
 }
 .sth {
-    margin-top: 40px;
-    color: #8B4513;
-    text-align: center;
+    margin-top: 20px;
+    color: white;
+    margin-left: 100px;
 }
 
 .shelf {
     margin-left: 32%;
     margin-right: 32%;
     margin-top: 100px;
-    background-color: #8B4513 ;;
-    width:max-content;
-    height: fit-content;
+    background-color: #35170C;
+    border-radius: 10px;
+    width: max-content;
+    height: 40px;
     display: flex;
     flex-direction: row;
     gap: 30px;
 }
 
-p {
-    font-family: "Gill Sans", sans-serif;
-    color: #FFDEAD;
+.item {
+    color: white;
+    margin-top: 10px;
     margin-right: 10px;
+    margin-left: 10px;
+
 }
